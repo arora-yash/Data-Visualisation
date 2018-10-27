@@ -1,0 +1,6 @@
+1st Project - Stock Analysis
+
+Done registration on AlphaVantage to get the API for extracting the stock data of the companies.
+Then select 4 companies - Apple(AAPL), Microsoft(MSFT), Facebook(FB), Google(GOOG)
+
+Through API plot the line graph of the stock price 
