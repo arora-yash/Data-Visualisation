@@ -59,7 +59,10 @@ plt.show();
 
 
 '''
-
+For Subplots but it cannot happen as yahoo api is deprecated and can only request one at a time
+So 4 requests could not be happen
+    
+    
 import quandl
 quandl.ApiConfig.api_key = 'ai_xDLz4oinvyixQpQFZ'
 
